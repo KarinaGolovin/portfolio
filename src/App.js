@@ -80,6 +80,7 @@ function App() {
                                 <li>Figma</li>
                                 <li>Adobe XD</li>
                                 <li>Sketch</li>
+                                <li>Invision</li>
                                 <li>Illustrator</li>
                                 <li>HTML/CSS</li>
                             </ul>
@@ -93,6 +94,7 @@ function App() {
                                 <li>Analize</li>
                                 <li>Prototype</li>
                                 <li>Design</li>
+                                <li>Typography</li>
                             </ul>
                         </div>
                     </div>
@@ -121,6 +123,11 @@ function App() {
                             <li className="social-item social-item-linkedin">
                                 <a href="https://www.linkedin.com/in/karina-golovin-9a108110b/" target="_blank">
                                     <img src="/media/icons/icon-linkedin-light.svg" alt="linkedin icon"/>
+                                </a>
+                            </li>
+                            <li className="social-item social-item-behance">
+                                <a href="https://www.behance.net/karinagolovin/" target="_blank">
+                                    <img src="/media/icons/icon-behance-light.svg" alt="linkedin icon"/>
                                 </a>
                             </li>
                         </ul>
